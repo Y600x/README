@@ -62,7 +62,7 @@ Always learning and pushing my limits across several tech stacks.
 <p align="left">
 
 <!-- Instagram -->
-<a href="https://www.instagram.com/660.35" target="_blank">
+<a href="https://www.instagram.com/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
